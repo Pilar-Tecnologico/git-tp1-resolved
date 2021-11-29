@@ -1,0 +1,14 @@
+{
+  "name": "demo-uwu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "PilarTecno",
+  "license": "MIT"
+}
